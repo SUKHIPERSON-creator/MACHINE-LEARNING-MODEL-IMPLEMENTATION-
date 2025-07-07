@@ -55,5 +55,5 @@ scikit-learn (sklearn)
 
 Output:-
 
-
+<img width="972" height="455" alt="Image" src="https://github.com/user-attachments/assets/536ca5e1-4030-4cba-b0da-60cecf086b76" />
 
