@@ -1,4 +1,15 @@
-# MACHINE-LEARNING-MODEL-IMPLEMENTATION-
+COMPANY = CODTECH IT SOLUTIONS
+
+NAME = AAKASH PASWAN
+
+INTERN ID : CT04DG1070
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION:4 WEEKS
+
+MENTOR NEELA SANTOSH
+# MACHINE-LEARNING-MODEL-IMPLEMENTATION
                        Spam Detection Using Machine Learning
 This project implements a simple spam email classifier using Natural Language Processing (NLP) and Multinomial Naive Bayes. It reads an email dataset and predicts whether a message is spam or ham (not spam) based on the content of the email.
 
@@ -28,26 +39,21 @@ Data is split into training and testing sets (80/20 split)
 Text Vectorization
 
 Uses CountVectorizer from sklearn to convert raw email texts into numerical feature vectors that ML models can understand.
-
-Model Training
-
+#Model Training
 Trains a Multinomial Naive Bayes model, which is ideal for text classification problems like spam detection.
-
 Prediction & Evaluation
-
 The trained model is used to predict the labels of the test data
-
-Model performance is evaluated using:
+#Model performance is evaluated using:
 
 Accuracy Score
-
 Confusion Matrix
-
-✅ Requirements
+ #Requirements
 Python
-
 pandas
-
 numpy
-
 scikit-learn (sklearn)
+
+Output:-
+
+
+
